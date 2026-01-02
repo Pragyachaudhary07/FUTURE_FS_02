@@ -23,6 +23,18 @@ A simple and interactive Task Manager web application developed as part of **Fut
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](screenshots/home.png)
+
+### ➕ Add Task
+![Add Task](screenshots/add-task.png)
+
+### ✅ Completed Task
+![Completed Task](screenshots/completed-task.png)
+
+
 ## 📂 Project Structure
 
 FUTURE_FS_02/
